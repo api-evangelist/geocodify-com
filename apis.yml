@@ -1,4 +1,16 @@
 aid: geocodify-com
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/geocodify-com.png
 name: Geocodify.com
 description: "Worldwide geocoding, geoparsing and autocomplete for addresses"
 url: https://geocodify.com/
