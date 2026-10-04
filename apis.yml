@@ -39,7 +39,6 @@ apis:
   - name: Geocodify.com
     description: "Worldwide geocoding, geoparsing and autocomplete for addresses"
     humanURL: https://geocodify.com/
-    baseURL: https://geocodify.com/
     tags:
       - Geocoding
     properties:
